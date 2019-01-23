@@ -1,18 +1,18 @@
-# Defining developmental diversification of diencephalon neurons through single-cell gene expression profiling
+# Specification of diverse cell types during early neurogenesis of the mouse cerebellum
 
 ## Abstract
-The embryonic diencephalon gives rise to diverse neuronal cell types, which form complex integration center and intricate relay station of the vertebrate forebrain. Prior anecdotal gene expression studies have revealed several developmental compartments in the diencephalon. Here, we used single-cell RNA sequencing to profile transcriptomes of dissociated cells from the diencephalon of E12.5 mouse embryos. Using unbiased transcriptional data, we identified the divergence of different progenitors, intermediate progenitors, and emerging neuronal cell types. We mapped these identified cell groups to their spatial origins, allowing the characterization of the molecular features across different cell types and cell states that arise from different diencephalic compartments. Furthermore, we reconstructed developmental trajectories of different cell lineages of the diencephalon. This led to identification of the genetic cascades and gene regulatory networks underlying the progression of the cell cycle, neurogenesis, and cellular diversification. The analysis provides new insights into the molecular mechanism underlying the specification and amplification of thalamic progenitor cells. In addition, the single-cell-resolved trajectories not only confirm a close relationship between the rostral thalamus and prethalamus, but also uncover an unexpected close relationship between the caudal thalamus, epithalamus and rostral pretectum. Our data provide a useful resource for systematic study of cell heterogeneity and differentiation kinetics within the diencephalon. 
+We applied single-cell RNA sequencing to profile genome-wide gene expression in about 9,400 individual cerebellar cells from the mouse embryo at embryonic day 13.5. Reiterative clustering identified the major cerebellar cell types and subpopulations of different lineages. Through pseudotemporal ordering to reconstruct developmental trajectories, we identified novel transcriptional programs controlling cell fate specification of populations arising from the ventricular zone and the rhombic lip, two distinct germinal zones of the embryonic cerebellum. Together, our data revealed cell-specific markers for studying the cerebellum, gene-expression cascades underlying cell fate specification, and a number of previously unknown subpopulations that may play an integral role in the formation and function of the cerebellum. Our findings will facilitate new discovery by providing insights into the molecular and cell type diversity in the developing cerebellum. 
 
 ![Graphical abstract](https://github.com/JLiLab/scRNAseq_Diencephalon/blob/master/images/LineageTree.png)
 
 # Description
-R scripts and objects used to generate figures of the manuscript
+Computer codes associated with the manuscript
 
 # License
 This project is licensed under the MIT License.
 
 ## Reference
-**Defining developmental diversification of diencephalon neurons through single-cell gene expression profiling**  
-Guo, Q. and Li, J. Y. H. (2018)
+**Specification of diverse cell types during early neurogenesis of the mouse cerebellum**  
+John W. Wizeman, Qiuxia Guo, Elliot Wilion, and James Y.H. Li (2018)
 
-[biorxiv preprint](https://www.biorxiv.org/content/early/2018/11/28/481317)
+[biorxiv preprint](https://www.biorxiv.org/content/early/2018/10/11/440818)
